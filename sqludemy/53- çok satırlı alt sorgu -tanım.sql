@@ -1,0 +1,6 @@
+--- birden fazla satır getirirler
+--- dataset table gibi davranırlar
+-- from where clause un de kullanılırlar
+-- kolon olarak kullanılamaz
+--from ile inline view
+-- where kullanılırsa in , any ,all kullanılarak getirilir
