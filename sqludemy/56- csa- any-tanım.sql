@@ -1,0 +1,4 @@
+-- any = ,< , > gibi operatörlerle kullanılır
+-- column_name < ANY (alt sorgu) : en büyüğünü bul ondan daha küçük değerlerini sorguda getir
+-- column_name > any .. :en küçüğünden daha büyük değerleri getir
+-- column_name = ANY -> IN
