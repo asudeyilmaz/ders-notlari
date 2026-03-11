@@ -1,0 +1,4 @@
+/*
+INSERT = bir tabloya veri eklemeye yarayan komuttur
+INSERT INTO table_name[(column1,column2,column3, ...)]
+						(value1, value2, value3, ...); */
