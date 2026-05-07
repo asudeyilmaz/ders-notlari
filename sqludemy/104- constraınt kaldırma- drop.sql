@@ -1,0 +1,2 @@
+ALTER TABLE courses
+DROP CONSTRAINT uq_courses
